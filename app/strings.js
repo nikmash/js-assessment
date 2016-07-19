@@ -6,10 +6,10 @@ exports.stringsAnswers = {
   },
 
   wordWrap: function(str, cols) {
-
+    
   },
 
   reverseString: function(str) {
-
+    return str.split("").reverse().join("")
   }
 };
